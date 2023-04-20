@@ -32,7 +32,7 @@ def myFeeling(feeling):
           else:
               print("We don't have to talk about it if you don't want to. \n Let's move on.")
   else:
-      print("Alright. Let's continue.")
+      print("GAME OVER.")
 
   
 feeling = input("\nHow are you feeling? ").lower()
